@@ -44,3 +44,6 @@ There are currently no test instructions.
 If you have any questions, please reach out to fergusonphoebe@gmail.com
 
 More of my work can be found at phoebeferg (github.com/phoebeferg).
+
+Link to the screenrecording: https://drive.google.com/file/d/1n5MhFQ8p21OdwDzZj6mQl_IUjZaB9SA5/view?usp=sharing
+
