@@ -78,9 +78,6 @@ If you have any questions, please reach out to ${response.questionEmail}
 
 More of my work can be found at ${response.questionGitUserName} (${response.questionGitProfile}).
 
-
-
-
 `;
 }
 
