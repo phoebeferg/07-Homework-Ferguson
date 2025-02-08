@@ -63,7 +63,13 @@ function writeToFile(data) {
     err ? console.error(err) : console.log('Success!'))
 }
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer
+        .prompt(questions)
+        
+        .then((inquirerResponses) => writeToFile((generateMarkdown({ ...inquirerResponses })
 
+)))
+};
 // Function call to initialize app
 init();
