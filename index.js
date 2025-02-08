@@ -38,22 +38,22 @@ const questions = [
     {
         type: 'input',
         name: 'tests',
-        message: 'Please enter test instructions',
+        message: 'Please enter test instructions:',
     },
     {
         type: 'input',
         name: 'questionGitUserName',
-        message: 'Please enter your github username',
+        message: 'Please enter your github username:',
     },
     {
         type: 'input',
         name: 'questionGitProfile',
-        message: 'Please enter a link to your github profile ',
+        message: 'Please enter a link to your github profile:',
     },
     {
         type: 'input',
         name: 'questionEmail',
-        message: 'Please enter your email address',
+        message: 'Please enter your email address:',
     }
 ];
 
