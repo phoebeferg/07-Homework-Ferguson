@@ -1,10 +1,10 @@
 
 
-## Project Title: Phoebe's Project
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Project Title: Phoebe's Project 07
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
             
 ## Description
-Phoebe's Project creates a README file
+This project creates a professional README file using command line inputs.
 
 ## Table of Contents
 
@@ -19,14 +19,14 @@ Phoebe's Project creates a README file
 * [Questions](#questions)
 
 ## Installation
-to install: npm i inquirer
+You must first install inquirer package using npm i inquirer in the command line.
 
 ## Usage
-to run node index.js
+To use this program you must have inquirer as a dependency in your package.JSON file, which you can create by running npm init in the command line. You must then initialize inquirer. Then this program can be used to create a professional README file.
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the Apache 2.0 license.
 
 * [License](#license)
 
@@ -34,13 +34,13 @@ This project is licensed under the MIT license.
 
 
 ## Contributing
-How to contribute goes here
+To contribute you must be listed in the contributions section here
 
 ## Tests
 To run tests, run the following command:
-no testing available
+There are currently no test instructions.
 
 ## Questions
 If you have any questions, please reach out to fergusonphoebe@gmail.com
 
-More of my work can be found at phoebeferg (https...).
+More of my work can be found at phoebeferg (github.com/phoebeferg).
